@@ -3,8 +3,8 @@
 This repository is to add all the examples from the book Artificial Intelligence in Finance book by Yves Hilpisch.
 There's 14 chapters and every chapter will have its perspective Jupyter notebook.
 1) * [Artificial Intelligence](https://github.com/ggalarza1/AI_Finance/blob/main/AI_finance.ipynb)
-2) Superintelligence
-3) Normative Finance
+2) * [Superintelligence](https://github.com/ggalarza1/AI_Finance/blob/main/superintelligence.ipynb)
+3) * [Normative Finance](https://github.com/ggalarza1/AI_Finance/blob/main/NormativeFinance.ipynb)
 4) Data-Driven Finance
 5) Machine Learning
 6) AI- First Finance
